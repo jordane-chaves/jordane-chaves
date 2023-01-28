@@ -11,7 +11,7 @@
 - 💻 I'm web developer
 - 📚 JavaScript | Node.js | TypeScript
 - 🚀 I love to study
-- 🎷 I love music and I play the saxophone
+- 🎷 I love music and playing the saxophone
 - 🎲 I love solving problems through technology
 
 ### Languages
