@@ -1,46 +1,33 @@
+<p align="center">
+  <a href="https://app.rocketseat.com.br/me/jordane">
+    <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=jordane&type=card" width="280" alt="Jordane Chaves Ferreira Rocha's Rocket ID"/>
+  </a>
+</p>
+
 # Hello, welcome! <img src="assets/wave.gif" width="30px" />
 
-<a href="https://www.linkedin.com/in/jordane-chaves/">
-  <img src="https://img.shields.io/static/v1?style=flat&label=&message=Jordane%20Chaves&color=1a1b27&logo=linkedin" />
-</a>
-
-<br>
-
-### About me
-
-- 💻 I'm web developer
-- 📚 JavaScript | Node.js | TypeScript
+- 💻 I'm full stack developer
 - 🚀 I love to study
 - 🎷 I love music and playing the saxophone
 - 🎲 I love solving problems through technology
 
-### Languages
+## Tech Stack
 
-<div>
-  <img src="assets/nodejs-logo.svg" alt="Node.js" width="20px" />&nbsp;
-  <img src="assets/typescript-logo.svg" alt="TypeScript" width="20px" />&nbsp;
-  <img src="assets/javascript-logo.svg" alt="JavaScript" width="20px" />&nbsp;
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=flat&logo=nodedotjs)
+![React.js](https://img.shields.io/badge/ReactJS-1a1b27?style=flat&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-1a1b27?style=flat&logo=docker)
 
-<br>
+## Contact
 
----
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordane-chaves&layout=compact&theme=tokyonight&hide_border=true">
-
-<!--
-**jordane-chaves/jordane-chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/jordane-chaves" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Jordane_Chaves-1a1b27?style=flat&logo=linkedin&label=in&labelColor=blue"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
